@@ -1,2 +1,2 @@
 # hello-world
-1st practice repo
+Learning how to use GITHUB functions
